@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+
+.fitur{
+    background: cyan;
+}
+
+.header{
+    width: 100%;
+    overflow: hidden;
+    background: #b1b1b1;
+}
